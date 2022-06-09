@@ -1,0 +1,22 @@
+.cool {
+    background-color: lightskyblue;
+    color: blue;
+    text-align: center;
+    font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cool.image{
+    background-color: white;
+}
+
+.links{
+    color:red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.info {
+    color:black;
+    background-color: yellow;
+    font-weight: 50;
+}
